@@ -1,0 +1,2 @@
+0 spintop
+1 nonspintop
