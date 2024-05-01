@@ -9,4 +9,5 @@ linkedln : Anugrah Aidin Yotolembah
 
 
 output video : 
-video/output_video.mp4
+
+https://github.com/AnugrahAidinYotolembah/Beyblade_Detection_Test/blob/main/video/output_video.mp4
