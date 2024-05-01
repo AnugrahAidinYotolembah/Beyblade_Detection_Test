@@ -8,3 +8,5 @@ email : didiyotolembah19@gmail.com
 linkedln : Anugrah Aidin Yotolembah 
 
 
+output video : 
+video/output_video.mp4
